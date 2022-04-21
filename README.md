@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 
-<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
-
+<img align="left" alt="HTML" width="30px" src="https://icon-library.com/images/html-icon-png/html-icon-png-6.jpg" />
+<img align="left" alt="CSS" width="30px" src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" />
 <img align="left" alt="Node JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="Mongo DB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![swaroop's github stats](https://github-readme-stats.vercel.app/api?username=FORSWAROOPRAJ=true&show_icons=true&include_all_commits=true&theme=dark)
+![FORSWAROOPRAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=FORSWAROOPRAJ&count_private=true)
 
-[website]: https://yash1200.github.io/#/
+[website]: https://swar.github.io/#/
 
 
 

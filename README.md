@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 <a href="https://stalwart-cat-ff83d3.netlify.app/" target="_blank"><img src="https://w7.pngwing.com/pngs/654/491/png-transparent-portfolio-graphic-design-investment-behance-design-angle-white-text-thumbnail.png" 
-alt="my portfolio" width="240" height="180" border="10" /></a>
+alt="my portfolio" width="240" height="100" border="10" /></a>
 
 
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />

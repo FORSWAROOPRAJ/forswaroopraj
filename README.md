@@ -32,11 +32,11 @@ alt="my portfolio" width="240" height="100" border="10" /></a>
 <br />
 <br />
 
-![FORSWAROOPRAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=FORSWAROOPRAJ&count_private=true)
+//![FORSWAROOPRAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=FORSWAROOPRAJ&count_private=true)
 
-[website]: https://swar.github.io/#/
-
-
+//[website]: https://swar.github.io/#/
 
 
-[medium]: https://medium.com/@yashjohri1200
+
+
+//[medium]: https://medium.com/@yashjohri1200
